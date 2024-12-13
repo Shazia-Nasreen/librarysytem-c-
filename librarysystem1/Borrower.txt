@@ -1,0 +1,15 @@
+﻿JohnDoe|password123
+JaneSmith|securepass
+MikeBrown|mike2023
+EmilyClark|emily1234
+SarahJohnson|sarahsecure
+DavidLee|david456
+SophiaWilson|sophia789
+JamesMiller|james321
+OliviaTaylor|olivia000
+LiamHarris|liam555
+EmmaWalker|emma777
+NoahWhite|noahabc
+AvaGreen|avaxyz
+LucasHall|lucas999
+MiaYoung|miayoung123

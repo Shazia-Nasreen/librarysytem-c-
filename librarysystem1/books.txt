@@ -1,0 +1,27 @@
+The Great Gatsby|F. Scott Fitzgerald|9780743273565|True
+To Kill a Mockingbird|Harper Lee|9780061120084|True
+1984|George Orwell|9780451524935|True
+Pride and Prejudice|Jane Austen|9781503290563|True
+The Catcher in the Rye|J.D. Salinger|9780316769488|True
+Moby-Dick|Herman Melville|9781503280786|True
+War and Peace|Leo Tolstoy|9781420954305|True
+The Odyssey|Homer|9780140268867|True
+Crime and Punishment|Fyodor Dostoevsky|9780486454115|True
+The Brothers Karamazov|Fyodor Dostoevsky|9780374528379|True
+Brave New World|Aldous Huxley|9780060850524|True
+Jane Eyre|Charlotte Bronte|9780141441146|True
+Wuthering Heights|Emily Bronte|9780141439556|True
+The Hobbit|J.R.R. Tolkien|9780547928227|True
+Lord of the Flies|William Golding|9780399501487|True
+The Silent Patient|Alex Michaelides|9781250301697|true
+The Last Thing He Told Me|Laura Dave|9781501171345|true
+Where the Crawdads Sing|Delia Owens|9780735219106|false
+The Midnight Library|Matt Haig|9780525559474|true
+Circe|Madeline Miller|9780316556347|true
+Becoming|Michelle Obama|9781524763138|false
+The Night Circus|Erin Morgenstern|9780307744432|true
+Educated|Tara Westover|9780399590504|true
+The Vanishing Half|Brit Bennett|9780525536291|false
+The Seven Husbands of Evelyn Hugo|Taylor Jenkins Reid|9781501139239|true
+
+
